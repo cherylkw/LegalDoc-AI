@@ -2,7 +2,11 @@
 
 ## 1. App Name and Short Description
 **AI Legal Document Assistant**  
-An intelligent application designed to generate, critique, and validate legal documents using an agentic AI workflow and self-automation. It leverages OpenAI's GPT-3.5 and LangChain for prompt-based document generation and iterative refinement.
+An intelligent application designed to generate, critique, and validate legal documents. In this repo I demo 2 types of approach.
+1. legalpal.py : Using an agentic AI workflow and it's self-automation. 
+2. legal_ai_agent.py : Using an AI agent workflow using tools. 
+
+Both leverages OpenAI's GPT-3.5 and LangChain for prompt-based document generation and iterative refinement.
 
 ---
 
